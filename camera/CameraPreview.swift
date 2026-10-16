@@ -19,7 +19,7 @@ struct CameraPreview: UIViewRepresentable {
 
         return view
     }
-
+//test
     func updateUIView(_ uiView: PreviewView, context: Context) {}
 }
 
