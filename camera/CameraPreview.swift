@@ -32,5 +32,3 @@ class PreviewView: UIView {
         layer as! AVCaptureVideoPreviewLayer
     }
 }
-
-//test
